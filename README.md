@@ -47,3 +47,7 @@ Desarrolló la nueva página buscar-cuidadores.html.
 Vinculó el botón de la landing para que lleve a esta nueva página.
 Creó la rama buscar-cuidadores.
 Realizó los commits y subió sus cambios con git push origin buscar-cuidadores.
+<img width="759" height="406" alt="image" src="https://github.com/user-attachments/assets/779a6995-47ff-4219-badf-93a3fa475053" />
+<img width="957" height="950" alt="image" src="https://github.com/user-attachments/assets/ae851fbb-1436-4f64-ba75-6873d97f81c6" />
+<img width="951" height="884" alt="image" src="https://github.com/user-attachments/assets/cea214cb-1d99-4d30-8e2b-1c55daf7b7fb" />
+
