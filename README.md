@@ -35,6 +35,14 @@ Fue responsable de realizar el merge final de todas las ramas en main
 Subio el proyecto inicial y compartio el repositorio con el equipo y la docente
 Capturo pantallas de los pasos más relevantes
 
+<img width="737" height="397" alt="Captura de pantalla 2026-05-22 150950" src="https://github.com/user-attachments/assets/e266a839-70c0-41b8-a4fe-9596a6c65de0" />
+<img width="725" height="404" alt="Captura de pantalla 2026-05-22 151007" src="https://github.com/user-attachments/assets/9e121b23-c1ef-4ba4-8aa2-6b4f95c9a5ba" />
+<img width="714" height="326" alt="Captura de pantalla 2026-05-23 134733" src="https://github.com/user-attachments/assets/bf0e53b3-bdda-4dea-a17c-67184931c69f" />
+<img width="707" height="341" alt="Captura de pantalla 2026-05-23 135130" src="https://github.com/user-attachments/assets/bd1121c6-167f-4751-814d-f328d7642f07" />
+<img width="719" height="404" alt="Captura de pantalla 2026-05-23 135821" src="https://github.com/user-attachments/assets/68bba9fe-0ee1-4aeb-a641-552891d9c7aa" />
+<img width="599" height="62" alt="Captura de pantalla 2026-05-23 140053" src="https://github.com/user-attachments/assets/3ee08ebd-b388-46b3-9048-d8110e9a6040" />
+
+
 Integrante 2
 
 Trabajo en la landing page, agregando un carrusel de imagenes para mejorar la parte visual
