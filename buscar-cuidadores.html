@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Buscar Cuidadores</title>
+
+<style>
+
+body {
+ font-family: Arial, sans-serif;
+ margin: 0;
+ background-color: #fff8f5;
+}
+
+header {
+ background-color: #ff914d;
+ color: white;
+ padding: 25px;
+ text-align: center;
+}
+
+.contenedor {
+
+ width: 90%;
+ margin: 40px auto;
+
+}
+
+.buscador {
+
+ text-align: center;
+ margin-bottom: 40px;
+
+}
+
+.buscador input {
+
+ width: 60%;
+ padding: 12px;
+ border-radius: 10px;
+ border: 1px solid #ccc;
+
+}
+
+.buscador button {
+
+ padding: 12px 20px;
+ border: none;
+ border-radius: 10px;
+ background-color: #ff914d;
+ color: white;
+ cursor: pointer;
+ margin-left: 10px;
+
+}
+
+.cuidadores {
+
+ display: flex;
+ gap: 20px;
+ flex-wrap: wrap;
+ justify-content: center;
+
+}
+
+.tarjeta {
+
+ background-color: white;
+ width: 280px;
+ padding: 20px;
+ border-radius: 15px;
+ box-shadow: 0 0 10px rgba(0,0,0,0.1);
+
+}
+
+.tarjeta img {
+
+ width: 100%;
+ border-radius: 10px;
+ height: 200px;
+ object-fit: cover;
+
+}
+
+.tarjeta h3 {
+
+ color: #ff914d;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>🐾 Buscar Cuidadores</h1>
+
+<p>Encontrá el cuidador ideal para tu mascota</p>
+
+</header>
+
+<div class="contenedor">
+
+<div class="buscador">
+
+<input type="text" placeholder="Ingresar ciudad o zona">
+
+<button onclick="buscarCuidador()">
+Buscar
+</button>
+
+</div>
+
+<div class="cuidadores" id="resultado">
+
+<div class="tarjeta">
+
+<img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e">
+
+<h3>Lucas López</h3>
+
+<p><strong>Zona:</strong> Córdoba Centro</p>
+
+<p><strong>Experiencia:</strong> 3 años</p>
+
+<p>🐶 Especialista en perros pequeños</p>
+
+</div>
+
+<div class="tarjeta">
+
+<img src="https://images.unsplash.com/photo-1494790108377-be9c29b29330">
+
+<h3>Martina Fernández</h3>
+
+<p><strong>Zona:</strong> Nueva Córdoba</p>
+
+<p><strong>Experiencia:</strong> 5 años</p>
+
+<p>🐱 Cuidados y paseos diarios</p>
+
+</div>
+
+</div>
+
+</div>
+
+<script>
+
+function buscarCuidador() {
+
+ alert('Búsqueda realizada correctamente 🐾');
+
+}
+
+</script>
+
+</body>
+
+</html>
